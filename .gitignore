@@ -1,0 +1,33 @@
+## Rust
+/target/
+Cargo.lock
+
+## Intellij Idea
+.idea/
+.run/
+
+## Visual Studio Code
+.vscode/
+
+## Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+
+# Experiments
+grahf-experiments/data/irace/*
+!grahf-experiments/data/irace/.gitkeep
+grahf-experiments/data/experiments/*
+!grahf-experiments/data/experiments/.gitkeep
+grahf-experiments/data/output/*
+!grahf-experiments/data/output/.gitkeep
